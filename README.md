@@ -1,2 +1,1 @@
-# HackerRank-Solutions
-HackerRack SQL solutions
+#HackerRank SQL solutions
